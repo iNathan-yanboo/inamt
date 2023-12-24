@@ -1,0 +1,129 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL Https://codeberg.org/testTV/TestV/raw/branch/main/FreeTest.m3u
+
+#EXTINF:-1 tvg-name="测试频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/tv-test.png" group-title="测试频道",维护通知
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch0
+#EXTINF:-1 tvg-name="测试频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/tv-test.png" group-title="测试频道",测试频道1
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch1
+#EXTINF:-1 tvg-name="测试频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/tv-test.png" group-title="测试频道",测试频道2
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch2
+#EXTINF:-1 tvg-name="测试频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/tv-test.png" group-title="测试频道",测试频道3
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch3
+#EXTINF:-1 tvg-name="测试频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/tv-test.png" group-title="测试频道",测试频道4
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch4
+#EXTINF:-1 tvg-name="测试频道" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/tv-test.png" group-title="测试频道",测试频道5
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch5
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV1.png" group-title="央视",CCTV综合
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv01zh
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV2.png" group-title="央视",CCTV经济
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv02jj
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV3.png" group-title="央视",CCTV综艺
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv03zy
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV4.png" group-title="央视",CCTV国际
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv04zw
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV4-OZ.png" group-title="央视",CCTV欧洲
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv04oz
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV4-MZ.png" group-title="央视",CCTV美洲
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv04mz
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV5.png" group-title="央视",CCTV体育
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv05ty
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV5P.png" group-title="央视",CCTV5+
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv05pl
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV6.png" group-title="央视",CCTV电影
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv06dy
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV7.png" group-title="央视",CCTV军事
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv07js
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV8.png" group-title="央视",CCTV电视剧
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv08dsj
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV9.png" group-title="央视",CCTV记录
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv09jl
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV10.png" group-title="央视",CCTV教育
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv10jy
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV11.png" group-title="央视",CCTV戏曲
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv11xq
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV12.png" group-title="央视",CCTV法治
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv12sf
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV13.png" group-title="央视",CCTV新闻
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv13xw
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV14.png" group-title="央视",CCTV少儿
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv14se
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV15.png" group-title="央视",CCTV音乐
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv15yy
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV16.png" group-title="央视",CCTV奥运
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv16ay
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV17.png" group-title="央视",CCTV农业
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv17ny
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/CCTV4K.png" group-title="央视",CCTV4K
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv4k
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CHC-GQDY.png" group-title="央视",CHC高清电影
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=chcgqdy
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CHC-DZDY.png" group-title="央视",CHC动作电影
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=chcdzdy
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/CHC-JTYY.png" group-title="央视",CHC家庭影院
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=chcjtyy
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-CQ.png" group-title="卫视",重庆卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wschongqing
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-BJ.png" group-title="卫视",北京卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsbeijing
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HN.png" group-title="卫视",湖南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wshunan
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JS.png" group-title="卫视",江苏卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsjiangsu
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-ZJ.png" group-title="卫视",浙江卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wszhejiang
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-DF.png" group-title="卫视",东方卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsdongfang
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-AH.png" group-title="卫视",安徽卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsanhui
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GD.png" group-title="卫视",广东卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsguangdong
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SZ.png" group-title="卫视",深圳卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsshenzhen
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-LN.png" group-title="卫视",辽宁卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsliaoning
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HUBEI.png" group-title="卫视",湖北卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wshubei
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HLJ.png" group-title="卫视",黑龙江卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsheilongjiang
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HENAN.png" group-title="卫视",河南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wshenan
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HEBEI.png" group-title="卫视",河北卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wshebei
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-DN.png" group-title="卫视",东南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsdongnan
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-TJ.png" group-title="卫视",天津卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wstianjing
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SD.png" group-title="卫视",山东卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsshandong
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JX.png" group-title="卫视",江西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsjiangxi
+#EXTINF:-1 tvg-id="54" tvg-name="贵州卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GZ.png" group-title="卫视",贵州卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsguizhou
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-HAINAN.png" group-title="卫视",海南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wshainan
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SC.png" group-title="卫视",四川卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wssichuan
+#EXTINF:-1 tvg-id="50" tvg-name="广西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GX.png" group-title="卫视",广西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsguangxi
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-YN.png" group-title="卫视",云南卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsyunnan
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-JL.png" group-title="卫视",吉林卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsjilin
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-GS.png" group-title="卫视",甘肃卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsgansu
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-QH.png" group-title="卫视",青海卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsqinghai
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-NMG.png" group-title="卫视",内蒙古卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsneimenggu
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-XJ.png" group-title="卫视",新疆卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsxinjiang
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SX.png" group-title="卫视",陕西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsshanxi
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-SHANXI.png" group-title="卫视",山西卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsshanxi1
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-NX.png" group-title="卫视",宁夏卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsningxia
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://codeberg.org/Nibrand/itv/raw/branch/main/tvicon/WS-XZ.png" group-title="卫视",西藏卫视
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsxizang
